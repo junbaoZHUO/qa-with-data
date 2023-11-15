@@ -1,0 +1,14 @@
+transformers
+sentence_transformers
+pandas
+spacy==2.3.5
+spacy_lookup
+flask
+torch==1.6.0
+torchvision==0.7.0
+py2neo
+flask
+flask-cors
+datasets
+tokenizers==0.9.4
+sentencepiece
