@@ -1,0 +1,17 @@
+{
+    "release_date": "release",
+    "keywords": "keywords",
+    "film length": "technicals",
+    "Color": "technicals",
+    "runtime": "technicals",
+    "Height": "nms_bio",
+    "Born": "nms_bio",
+    "Died": "nms_bio",
+    "Nicknames": "nms_bio",
+    "trivia": "nms_bio",
+    "spouse": "nms_bio",
+    "trade_mark": "nms_bio",
+    "portrayals": "nms_publicity",
+    "interviews": "nms_publicity",
+    "articles": "nms_publicity"
+}
